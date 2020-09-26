@@ -1,0 +1,38 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #f18724;
+}
+.cardsize {
+ height:550px ;
+ width: 400px;
+ margin-left: 50px;
+ margin-right: 70px;
+}
+/* .imgsize {
+  height: 200px;
+  width: 200px;
+} */
+
+.btn-success {
+  color: #fff;
+  background-color: #ff8100;
+  border-color: #ff8100;
+}
+
+.bg-success {
+  background-color: #0A79DF!important;
+}
+/* footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+} */
+.text-white {
+  color: #0A79DF!important;
+}
